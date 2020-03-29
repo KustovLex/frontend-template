@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:300,400,500&subset=cyrillic');
+
+@import "parts/variables.scss";
+
+body{
+    font-family: 'Ubuntu', sans-serif;
+    color: #000;
+}
+
+@import "parts/core.scss";
+@import "parts/commons.scss";
+@import "parts/actions.scss";
+@import "parts/blocks.scss";
+
+
